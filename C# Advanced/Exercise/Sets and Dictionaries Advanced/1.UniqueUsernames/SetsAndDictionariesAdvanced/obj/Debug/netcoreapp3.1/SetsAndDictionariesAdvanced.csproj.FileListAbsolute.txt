@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\bin\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Sets and Dictionaries Advanced\1.UniqueUsernames\SetsAndDictionariesAdvanced\obj\Debug\netcoreapp3.1\SetsAndDictionariesAdvanced.genruntimeconfig.cache

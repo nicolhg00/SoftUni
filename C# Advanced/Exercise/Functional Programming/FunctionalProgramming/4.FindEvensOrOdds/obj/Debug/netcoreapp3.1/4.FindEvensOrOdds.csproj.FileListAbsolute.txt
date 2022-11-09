@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\bin\Debug\netcoreapp3.1\4.FindEvensOrOdds.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Functional Programming\FunctionalProgramming\4.FindEvensOrOdds\obj\Debug\netcoreapp3.1\4.FindEvensOrOdds.genruntimeconfig.cache

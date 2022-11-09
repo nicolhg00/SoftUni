@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\bin\Debug\netcoreapp3.1\2.Warship.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\ExamPrep\2.Warship\obj\Debug\netcoreapp3.1\2.Warship.genruntimeconfig.cache

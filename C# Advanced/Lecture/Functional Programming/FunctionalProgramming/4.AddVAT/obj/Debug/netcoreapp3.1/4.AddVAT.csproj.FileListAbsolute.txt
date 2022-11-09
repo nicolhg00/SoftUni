@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\bin\Debug\netcoreapp3.1\4.AddVAT.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Lecture\Functional Programming\FunctionalProgramming\4.AddVAT\obj\Debug\netcoreapp3.1\4.AddVAT.genruntimeconfig.cache

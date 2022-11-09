@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\bin\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\Exercise\Exercise10\obj\Debug\netcoreapp3.1\Exercise10.genruntimeconfig.cache

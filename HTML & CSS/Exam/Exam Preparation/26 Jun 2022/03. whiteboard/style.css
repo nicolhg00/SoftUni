@@ -1,0 +1,150 @@
+:root {
+    --bkg-color: #ffffff;
+    --green-btn: #00d08e;
+    --green-bkg: #b2f1dd;
+}
+
+body{
+    font-family: 'PT Sans';
+}
+/* HEADER */
+
+.header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
+     url(./image/computer-main.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: var(--bkg-color);
+    text-shadow: 0px 3px 3px black;
+    text-align: center;
+}
+
+.header nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 7rem;
+    margin-bottom: 1rem;
+}
+
+.header h1{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+
+}
+
+.header .desc{
+    font-size: 1.3rem;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 2.5rem;
+}
+
+.header .btn{
+    background-color: var(--green-btn);
+    border: none;
+    color: var(--bkg-color);
+    border-radius: 0.2rem;
+    padding: 0.2rem 1rem;
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header .nav{
+    padding-bottom: 3rem;
+}
+
+/* FEATURE 1*/
+.features-row{
+    display: flex;
+    justify-content: center;
+    
+}
+.features-row:nth-child(even){
+    flex-direction: row-reverse;
+}
+.features-row img{
+    width: 100%;
+    height: 100%;
+}
+.features-row .row-img,
+.features-row .content{
+   width: 50%;
+}
+
+.features-row .content{
+    padding: 2rem 3rem;
+}
+
+.features-row .content h3{
+    font-size: 24px;
+    margin-bottom: 0.3rem;
+}
+
+.features-row .content p{
+    font-weight: 600;
+    margin-bottom: 2rem;
+    width: 80%;
+}
+
+.features-row .content i{
+   color: var(--green-btn);
+   margin-right: 1rem;
+   margin-bottom: 0.8rem;
+}
+
+/* FEATURE 2*/
+.grid{
+    padding-top: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+}
+
+.card-second{
+    width: 60px;
+    align-items: center;
+}
+.card-second  p {
+    color: var(--green-btn);
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 5px;
+    font-size: 1rem;
+}
+.features-row .content .title{
+    text-align: center;
+}
+
+.questions,
+footer{
+    background-color: var(--green-bkg);
+}
+.questions .questions-title{
+    text-align: center;
+    padding-top: 2rem;
+    font-weight: bold;
+}
+
+.questions ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+    text-align: center;
+    gap:24px;
+    padding: 4%;
+}
+
+footer p{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}

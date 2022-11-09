@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.exe
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\User\Desktop\New folder\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.dll
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+C:\Users\User\Desktop\New folder\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

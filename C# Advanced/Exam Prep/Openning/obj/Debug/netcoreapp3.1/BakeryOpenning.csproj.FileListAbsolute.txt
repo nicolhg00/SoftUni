@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Openning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

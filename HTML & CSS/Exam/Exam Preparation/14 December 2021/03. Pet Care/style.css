@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500&display=swap');
+
+p,
+a,
+.btn{
+    font-family: 'Open Sans';
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-family: 'Poppins';
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 15rem;
+}
+
+header .nav ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.dog{
+    position: relative;
+    height: 500px;
+}
+
+.dog .header-bg{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+
+.dog .dog-bg{
+    position: absolute;
+    height: 480px;
+    top: 80px;
+    left: 45%;
+}
+
+.dog .content{
+    position: relative;
+    display: inline-block;
+    color: white;
+    margin: 150px 0px 60px 240px;
+    width: 300px;
+}
+
+.content .title{
+    font-size: 52px;
+    font-weight: 100;
+
+}
+
+.content .second-title{
+    font-size: 52px;
+    font-weight: 900;
+}
+
+.content .desc{
+    font-size: 12px;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    line-height: 1.5rem;
+}
+
+.btn{
+    color: #ea2b15;
+    border: 1px solid #ea2b15;
+    border-radius: 2rem;
+    font-size: 12px;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+
+.services{
+    text-align: center;
+    margin: 10rem  15rem;
+}
+
+.services h2{
+    font-size: 30px;
+    font-weight: 800;
+    
+}
+
+.services .desc{
+    font-size: 12px;
+    color: grey;
+    padding: 0rem 21rem;
+    margin-bottom: 2rem;
+}
+
+.services .content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.content article{
+    border: 1px solid #ea2b15 ;
+    padding: 1rem;
+}
+
+.content article img{
+    margin: 1rem auto;
+    background-image: url("./images/service-bg.png");
+    background-size:cover;
+    
+}
+
+.content article p{
+    color: gray;
+    font-size: 10px;
+    margin: 1rem 0;
+    padding: 0 3rem;
+    line-height: 1.7;
+}
+
+.care{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem  15rem;
+}
+.care .img{
+    width: 400px;
+    flex-basis: 50%;
+}
+.care .content{
+    flex-basis: 50%;
+}
+
+.care .btn{
+    color: white;
+    background-color: #ea2b15;
+}
+
+.care .desc{
+    color: grey;
+}
+
+.anipat{
+    position: relative;
+
+}
+
+.anipat .content3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+}
+
+.content3 .title{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 1.4rem;
+}
+
+.content3 p{
+    color: white;
+    margin-bottom: 1.4rem;
+}
+
+.content3 .contact{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+footer nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem 15rem;
+
+}
+
+footer nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
+.mini-title{
+    color: black;
+    font-weight: 700;
+
+}

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\bin\Debug\netcoreapp3.1\Ad Astra.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Exam\Exam Preparation\Ad Astra\obj\Debug\netcoreapp3.1\Ad Astra.genruntimeconfig.cache

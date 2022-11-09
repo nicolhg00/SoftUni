@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\RegularExpressions\Regular Expressions\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.genruntimeconfig.cache

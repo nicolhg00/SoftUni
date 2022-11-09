@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\bin\Debug\netcoreapp3.1\Hints.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Data Types and Variables\DataTypesAndVariables\Hints\obj\Debug\netcoreapp3.1\Hints.genruntimeconfig.cache

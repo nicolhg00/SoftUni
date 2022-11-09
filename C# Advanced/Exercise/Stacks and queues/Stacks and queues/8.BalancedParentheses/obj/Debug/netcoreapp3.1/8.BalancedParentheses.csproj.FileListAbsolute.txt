@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\bin\Debug\netcoreapp3.1\8.BalancedParentheses.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\8.BalancedParentheses\obj\Debug\netcoreapp3.1\8.BalancedParentheses.genruntimeconfig.cache

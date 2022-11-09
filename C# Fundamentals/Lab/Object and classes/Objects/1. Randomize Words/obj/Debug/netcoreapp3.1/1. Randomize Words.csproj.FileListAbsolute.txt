@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Object and classes\Objects\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Object and classes\Objects\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Object and classes\Objects\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Object and classes\Objects\1. Randomize Words\obj\Debug\netcoreapp3.1\1. Randomize Words.csproj.CoreCompileInputs.cache

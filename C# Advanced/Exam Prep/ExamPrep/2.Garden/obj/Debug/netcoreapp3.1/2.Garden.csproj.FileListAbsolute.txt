@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\bin\Debug\netcoreapp3.1\2.Garden.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exam Prep\Scheduling\2.Garden\obj\Debug\netcoreapp3.1\2.Garden.genruntimeconfig.cache

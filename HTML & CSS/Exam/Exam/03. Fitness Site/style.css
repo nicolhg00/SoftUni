@@ -1,0 +1,157 @@
+:root{
+    --clr-red:#d01919;
+    --clr-grey:#efefef;
+}
+
+body{
+    font-family: 'PT Sans';
+}
+
+i{
+    cursor: pointer;
+}
+
+.header .top-header{
+    position: sticky;
+    top:0px;
+    left: 0px;
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    background-color: var(--clr-red);
+    color: white;
+}
+
+.top-header .div-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.bottom-header{
+    height: 500px;
+    position: relative;
+
+}
+.bottom-header .img-header{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+}
+
+.menu .navigation ul{
+    display: flex;
+    justify-content: end;
+    color: white;
+    gap: 4rem;
+    padding: 1rem 4rem;
+    cursor: pointer;
+}
+
+.header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    z-index: 1;
+    text-align: center;
+    width: 35%;
+}
+
+.header-content .title{
+    letter-spacing: 1rem;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.header-content .desc{
+    font-weight: 100;
+    font-size: 0.9rem;
+    padding:0rem 5rem;
+    margin-bottom: 1.5rem;
+}
+
+.header-content .btn{
+    color: white;
+    background-color: var(--clr-red);
+    border: none;
+    border-radius: 0.3rem;
+    padding:0.2rem 1rem;
+    cursor: pointer;
+}
+
+.welcome{
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.welcome-title{
+    margin: 1rem;
+    font-size: 2.4rem;
+}
+
+.hr{
+    width: 4rem;
+    background-color: var(--clr-red);
+    border: 1px solid var(--clr-red);
+    margin-bottom: 2rem;
+}
+
+.containers{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6rem;
+    padding: 1rem 6rem;
+
+}
+
+.div-cont .icons-img{
+    width: 3rem;
+    display: inline;
+    margin-bottom: 0.7rem;
+}
+
+.div-cont .div-title{
+    color: var(--clr-red);
+    margin-bottom: 0.7rem;
+}
+
+.coaches{
+    background-color: var(--clr-grey);
+    padding-top: 1rem;
+}
+
+.img{
+    display: inline;
+    border-radius: 0.2rem;
+    width: 100%;
+}
+
+.coaches .containers{
+    gap: 14rem;
+}
+
+.coaches .div-title{
+    font-size: 0.8rem;
+}
+
+.coaches .top-title{
+    font-size: 1.3rem;
+}
+
+.coaches .div-desc{
+    color: gray;
+}
+
+footer{
+    background-color: var(--clr-red);
+    text-align: center;
+    padding: 0.2rem;
+}

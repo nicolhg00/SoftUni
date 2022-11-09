@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4rm+rG1CZ1F3YQgOkuoYLyT4i2huUCaSBhkt/bHt8mvLrEfuF/m9SMfzdsw2k+pT8iOXl+2gEGeS+WM6Y9m92g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\SoftUni\\C# Fundamentals\\Exercise\\Exercise Data Types\\ExerciseDataTypes\\Exersice5\\Exersice5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

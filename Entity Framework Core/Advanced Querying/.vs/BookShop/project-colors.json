@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "622653a2-1fb8-4f48-b78b-834ae8083af9": {
+      "ProjectGuid": "622653a2-1fb8-4f48-b78b-834ae8083af9",
+      "DisplayName": "BookShop.Initializer",
+      "ColorIndex": 0
+    },
+    "c16aabb0-e593-48c2-88c3-da60259f686e": {
+      "ProjectGuid": "c16aabb0-e593-48c2-88c3-da60259f686e",
+      "DisplayName": "BookShop.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

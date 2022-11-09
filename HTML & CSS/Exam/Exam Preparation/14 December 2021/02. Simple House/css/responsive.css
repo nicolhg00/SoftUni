@@ -1,0 +1,26 @@
+@media (max-width: 600px) {
+
+    .row{
+        display: unset;
+    }
+
+    .tm-cta-section{
+        width: unset;
+    }
+
+    .tm-section-title{
+        margin-left: unset;
+        margin-top: 48px;
+        font-size: 48px ;
+    }
+
+    .text-center{
+        margin-bottom: 80px;
+    }
+
+    .tm-gallery-page{
+        margin: unset;
+        flex-direction: column;
+        align-items: center;
+    }
+}

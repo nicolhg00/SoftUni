@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Stacks and queues\Stacks and queues\3.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\3.MaximumAndMinimumElement.genruntimeconfig.cache

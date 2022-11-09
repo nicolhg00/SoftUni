@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\bin\Debug\netcoreapp3.1\3. Substring.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Lab\Text Processing\Text Processing\3. Substring\obj\Debug\netcoreapp3.1\3. Substring.genruntimeconfig.cache

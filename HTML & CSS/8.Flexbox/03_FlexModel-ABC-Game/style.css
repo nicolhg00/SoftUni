@@ -1,0 +1,20 @@
+*{
+    font-family:Helvetica, sans-serif;
+    font-size: 20px;
+}
+div{
+    max-width: 15vw;
+    height: 35rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+span{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}

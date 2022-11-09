@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\expectedResult.txt
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\words.txt
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.genruntimeconfig.cache

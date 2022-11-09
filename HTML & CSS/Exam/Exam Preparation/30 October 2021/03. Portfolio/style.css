@@ -1,0 +1,158 @@
+
+:root{
+
+    --clr-bg:#efefef;
+    --clr-icons:#909090;
+    --background-url: url(images/thumb-1.jpeg);
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+header,
+section,
+footer{
+    background-color: var(--clr-bg);
+    margin: 1.5rem;
+    height: 540px;
+}
+.menu{
+    display: flex;
+    justify-content: right;
+    gap: 1rem;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.menu i{
+    cursor: pointer;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.content .name{
+    flex-basis: 25%;
+}
+
+.thin{
+    font-weight: 100;
+
+}
+
+.name .desc{
+    font-style: italic;
+    font-size: 0.6rem;
+    margin: 1rem 0;
+    line-height: 2;
+}
+ .name .trait{
+    font-size: 3rem;
+    font-weight: 100;
+ }
+
+.content .img{
+    flex-basis: 40%;
+}
+
+.bio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 10rem;
+}
+
+.bio .biography{
+    flex-basis: 50%;
+}
+.biography .title{
+    font-size: 2rem;
+    margin-bottom: 1.2rem;
+}
+.biography .title .first{
+    font-weight: 100;
+}
+
+.biography p{
+    font-style: italic;
+    font-size: 0.6rem;
+    margin: 1rem 0;
+    line-height: 2;
+}
+
+.icons{
+    display: flex;
+    gap: 1rem;
+}
+
+.icons i{
+    font-size: 1rem;
+    background-color: var(--clr-icons);
+    color: white;
+    padding: 0.6rem;
+}
+
+.img-section .img-div{
+   background: var(--background-url);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 540px;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem 10rem;
+}
+
+footer p{
+    font-style: italic;
+    font-size: 1rem;
+    margin: 2rem 0;
+    line-height: 1.5;
+}
+
+footer form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0 20%;
+}
+
+
+form .row{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+#email,
+#subject{
+    flex-basis: 50%;
+    background-color: var(--clr-bg);
+    border: 1px solid;
+    padding: 0.2rem 1rem;
+}
+
+#message{
+    flex-basis: 50%;
+    background-color: var(--clr-bg);
+    border: 1px solid;
+    padding-top: 0.4rem;
+    padding-left: 0.4rem ;
+    padding-bottom: 5rem;
+}
+
+.btn-message{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.footer{
+    margin-top: 7rem;
+}

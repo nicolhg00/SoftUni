@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\Methods\Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\Methods\Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\Methods\Methods\6. Middle Characters\obj\Debug\netcoreapp3.1\6. Middle Characters.AssemblyInfo.cs

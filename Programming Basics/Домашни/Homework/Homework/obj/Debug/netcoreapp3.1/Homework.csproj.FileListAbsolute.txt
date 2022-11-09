@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+C:\Users\User\Desktop\SoftUni\Домашни\Homework\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache

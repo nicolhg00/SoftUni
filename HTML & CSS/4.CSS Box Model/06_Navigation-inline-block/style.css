@@ -1,0 +1,23 @@
+
+html{
+    font-family: Helvetica, sans-serif;
+}
+body{
+    margin: 50px;
+}
+header h1,
+header nav ul li,
+header nav{
+    display: inline-block;
+}
+header nav ul li a{
+    color: lightgreen;
+    text-decoration: none;
+}
+main {
+    border-top: 2px solid black;
+}
+
+main h2{
+    font-family: Georgia,serif;
+}

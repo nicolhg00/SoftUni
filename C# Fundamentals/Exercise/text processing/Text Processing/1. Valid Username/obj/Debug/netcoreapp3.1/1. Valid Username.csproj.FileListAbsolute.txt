@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\bin\Debug\netcoreapp3.1\1. Valid Username.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exercise\text processing\Text Processing\1. Valid Username\obj\Debug\netcoreapp3.1\1. Valid Username.genruntimeconfig.cache

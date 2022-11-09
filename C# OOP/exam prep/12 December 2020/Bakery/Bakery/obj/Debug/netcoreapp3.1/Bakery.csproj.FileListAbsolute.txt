@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\SoftUni\C# OOP\exam prep\12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# OOP\exam prep\12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# OOP\exam prep\12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# OOP\exam prep\12 December 2020\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache

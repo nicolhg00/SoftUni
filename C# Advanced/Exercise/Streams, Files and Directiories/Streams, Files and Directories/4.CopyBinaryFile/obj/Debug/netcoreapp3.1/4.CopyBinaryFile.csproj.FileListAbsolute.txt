@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.exe
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\copyMe.png
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.deps.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\bin\Debug\netcoreapp3.1\4.CopyBinaryFile.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.dll
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.pdb
+C:\Users\User\Desktop\SoftUni\C# Advanced\Exercise\Streams, Files and Directiories\Streams, Files and Directories\4.CopyBinaryFile\obj\Debug\netcoreapp3.1\4.CopyBinaryFile.genruntimeconfig.cache

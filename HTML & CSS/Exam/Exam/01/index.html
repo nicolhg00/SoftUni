@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="container">
+        <div class="img">
+            <img src="./image/calculator.png" alt="img">
+            <div class="overlay"></div>
+        </div>
+
+        <div class="calculator">
+            <h1>FITNESS CALCULATOR</h1>
+            <div class="btns">
+                <button class="first-btn">Standart units (US)</button>
+                <button class="second-btn">Metric units</button>
+            </div>
+            <label for="gender">Gender</label>
+            <div class="gender">
+               
+                 <select id="gender" name="gender">
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <input type="text" placeholder="Years..." name="Years" id="years">
+            </div>
+
+            <label for="weight">Weight</label>
+            <input type="text" placeholder="Pounds..." name="weight" id="weight">
+
+            <label for="height">Height</label>
+            <div class="height">
+                <input type="text" placeholder="Feet..." name="feet" id="feet">                
+
+                <input type="text" placeholder="Inches..." name="inches" id="inches">
+            </div>
+            <button class="btn">Calculate</button>
+        </div>
+
+        
+    </section>
+</body>
+</html>

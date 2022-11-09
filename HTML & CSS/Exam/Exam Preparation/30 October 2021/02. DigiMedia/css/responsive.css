@@ -1,0 +1,37 @@
+@media (min-width:600px){
+
+
+    .navbar{
+        justify-content: center;
+    }
+
+    .navbar-light .navbar-brand{
+        margin: 0 auto;
+    }
+
+    .hero{
+        text-align: center;
+    }
+    .hero img{
+        display: none;
+    }
+
+    .hero h1 {
+        margin-top: 64px;
+        
+    }
+
+    .hero-btns{
+        display: flex;
+        flex-direction: column;
+        margin:70px 100px;
+    }
+
+    .service-txt{
+        text-align: center;
+    }
+
+    .row{
+    }
+
+}

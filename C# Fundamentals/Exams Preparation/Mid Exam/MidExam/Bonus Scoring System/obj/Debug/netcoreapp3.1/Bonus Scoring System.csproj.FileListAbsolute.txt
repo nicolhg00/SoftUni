@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.exe
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.deps.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\bin\Debug\netcoreapp3.1\Bonus Scoring System.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.dll
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.pdb
+C:\Users\User\Desktop\SoftUni\C# Fundamentals\Exams Preparation\Mid Exam\MidExam\Bonus Scoring System\obj\Debug\netcoreapp3.1\Bonus Scoring System.genruntimeconfig.cache

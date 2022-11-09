@@ -1,0 +1,54 @@
+body{
+    font-family: Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px ;
+    padding: 0 2rem;
+}
+
+.left{
+    padding: 2rem;
+    flex-basis: 30%;
+}
+
+.left h4{
+    font-size: 0.5rem;
+    font-weight: 600;
+}
+
+.left h1{
+    font-weight: 400;
+    letter-spacing: 1px;
+
+}
+
+.left p{
+    font-size: 1rem;
+    letter-spacing: 1px;
+    color: gray;
+    margin-bottom: 2rem;
+    line-height: 2;
+}
+
+.btn{
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
+
+.left-btn{
+    color: white;
+    background-color: blueviolet;
+    margin-right: 0.6rem;
+    border: none;
+}
+.right img{
+    height: 400px;
+}
